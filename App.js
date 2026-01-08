@@ -375,4 +375,4 @@ const styles = StyleSheet.create({
   rowBetween: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   logoCircle: { width: 100, height: 100, borderRadius: 50, justifyContent: 'center', alignItems: 'center', elevation: 5, shadowOpacity: 0.3, shadowRadius: 10 },
   smallLogo: { width: 30, height: 30, borderRadius: 8, justifyContent: 'center', alignItems: 'center' }
-});
+}); 
